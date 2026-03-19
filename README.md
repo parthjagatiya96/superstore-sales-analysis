@@ -1,5 +1,7 @@
 # 📊 Superstore Sales Dashboard (Tableau)
 
+![Dashboard Preview](superstore_sales_dashboard_ss.PNG)
+
 ## 🔗 Overview
 Interactive Tableau dashboard analyzing **sales, profit, and customer behavior** across the US.  
 Helps stakeholders identify trends, performance gaps, and growth opportunities.
